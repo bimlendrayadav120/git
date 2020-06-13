@@ -1,0 +1,2 @@
+New gh2.txt
+some contents
